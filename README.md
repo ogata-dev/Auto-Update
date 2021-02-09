@@ -1,4 +1,4 @@
-# Auto-Update
+# Auto Update
 Auto Update V 1.2
 
 Install :
